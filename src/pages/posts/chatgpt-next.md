@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'ChatGpt 能够做什么？'
-pubDate: 2023-0-13
+pubDate: 2023-04-13
 description: '呈现出类拔萃的音质、增强的 Siri 功能以及安全放心的智能家居体验'
 author: 'Apple Newsroom'
 cover:
