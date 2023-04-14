@@ -2,7 +2,7 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: 'ChatGpt 能够做什么？'
 pubDate: 2023-04-13
-description: '呈现出类拔萃的音质、增强的 Siri 功能以及安全放心的智能家居体验'
+description: '基于 GPT 系列预训练模型，具有强大的语言理解和生成能力'
 author: 'Apple Newsroom'
 cover:
     url: 'https://s2.loli.net/2023/04/13/2b8CF7r1gNwsQGA.jpg'
